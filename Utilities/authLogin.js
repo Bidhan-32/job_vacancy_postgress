@@ -1,4 +1,3 @@
-//const User = require('../Models/User');
 const pool = require('../db');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
